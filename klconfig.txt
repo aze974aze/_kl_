@@ -1,0 +1,3 @@
+webhook url : "https://discord.com/api/webhooks/952979035984629780/VEl3kekgvOeHoTb3n8XwiPjW5rY7Jbp9EQNBfSQYiXKnXvG8Z-fN8BxKUgmHiZXAibEy"
+time before send : "10"
+
